@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on Emanuel Feijo</title>
+    <link>https://example.org/techs/python/</link>
+    <description>Recent content in Python on Emanuel Feijo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Emanuel Feijo</copyright>
+    <atom:link href="https://example.org/techs/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Takinobori</title>
+      <link>https://example.org/job/takinobori/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/job/takinobori/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
