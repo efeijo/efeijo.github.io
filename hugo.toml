@@ -9,8 +9,8 @@ pygmentsUseClasses=true
 pygmentsCodeFences=true
 
 [params.intro]
-  main = "Hi, I'm Emanuel Feijo"
-  sub = "I'm a Software Developer, focused on cloud and distributed Systems"
+  main = "Hi, I'm Emanuel"
+  sub = "Backend and Cloud techonolgies"
 
 [params.main]
   
