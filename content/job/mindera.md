@@ -2,7 +2,7 @@
 title: Mindera
 description: Software Developer
 jobDate: 2021-Current
-work: [Backend Developer, Cloud]
+work: [Software Developer, Backend ,Cloud]
 techs: ["Go", "Docker", "K8s", "Wasm-Wasi"]
 thumbnail: jobImages/mindera.png
 ---
@@ -22,5 +22,5 @@ Working with several projects during the time in this company.
     - Agones, 
     - OpenMatch
 and using:
-  - Go, Docker, Kubernetes, Redis,GCP, Grafana, Prometheus
+  - Go, Docker, Kubernetes, Redis, GCP, Grafana, Prometheus
   
