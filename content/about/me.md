@@ -9,4 +9,4 @@ I'm a simple guy that likes to get **hands on new tech**. I really like to be **
 I tend to be bit shy, something that a I've been imporving, like you see from the contents of my website, **I tend be to simple and straight to point**.
 
 
-Lastly I like help my fellows and I really like the knowdlege from debating about problmes/ideas with others.
+Lastly I like help my fellows and I really like sharing ideas and learn from debating, discussin problmes and share ideas.

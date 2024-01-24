@@ -11,16 +11,25 @@ thumbnail: jobImages/mindera.png
 
 Working with several projects during the time in this company.
 
-- Creating and Maintining Microservices with:
-  - Go, Docker, GRPC, HTTP
+ 1. Creating and Maintining Microservices with:
+     - **Go**
+     - **Docker**
+     - **GRPC**
+     - **HTTP**
+     - **PostgreSql**
   
-- Backend for a arcade game using:
-  - Go, Docker, Websockets, Wasm
+1. Backend for a arcade game using:
+     - **Go** 
+     - **Docker** 
+     - **Websockets** 
+     - **Wasm**
   
-- Working on system for multiplayer matchmaking and game server allocation using Google open-source tools for gamehosting and matchmaking:
-  
-    - Agones, 
-    - OpenMatch
-and using:
-  - Go, Docker, Kubernetes, Redis, GCP, Grafana, Prometheus
+2. Working on system for multiplayer matchmaking and game server allocation using Google open-source tools for gamehosting and matchmaking (Agones, OpenMatch). The remaining stack is:
+    - **Go**
+    - **Docker**
+    - **Kubernetes** 
+    - **Redis**
+    - **GCP**
+    - **Grafana** 
+    - **Prometheus**
   
